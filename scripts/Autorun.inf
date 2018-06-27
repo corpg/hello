@@ -1,0 +1,2 @@
+[autorun]
+OPEN=hello.exe client <ip server>
